@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
 *main - defines start of the program 
 *Return: 0
