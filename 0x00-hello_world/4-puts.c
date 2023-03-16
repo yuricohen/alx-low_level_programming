@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - defines start of the program 
- */
+*main - defines start of the program 
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
