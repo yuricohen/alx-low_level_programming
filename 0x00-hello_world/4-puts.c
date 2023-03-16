@@ -1,5 +1,7 @@
 #include <stdio.h>
-/*This is main variable declaration*/
+/**
+ *main - defines start of the program 
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
