@@ -4,7 +4,7 @@
 
 /**
 * main - defines start of the program
-* 
+*
 * n - defines the variable that will be compared
 *
 * Return:0
@@ -16,13 +16,13 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if (n>0)
+	if (n > 0)
 {
 	printf("%d is positive\n", n);
 }
-	else if (n == 0 )
+	else if (n == 0)
 {
-	printf("%d is is zero\n", n);
+	printf("%d is zero\n", n);
 }
 	else
 {
