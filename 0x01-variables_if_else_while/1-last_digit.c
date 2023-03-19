@@ -3,7 +3,6 @@
 #include <time.h>
 
 /**
-* This program will print the last digit of the number of the variable
 *
 * main - defines start of the program
 *
