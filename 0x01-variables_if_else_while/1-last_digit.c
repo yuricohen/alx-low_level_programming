@@ -3,7 +3,6 @@
 #include <time.h>
 
 /**
-*
 * main - defines start of the program
 *
 * n - defines the variable that will be generated
