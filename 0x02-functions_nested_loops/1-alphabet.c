@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include "main.h"
+#include <unistd.h>
 
 /**
-* main - defines start of the program
-*
-* Return:0
-*/
-void print_alphabet(void)
+* main - defines start of the progra/**
+* * main - defines start of the programrint_alphabet(void)
 {
     char c = 'a';
 
