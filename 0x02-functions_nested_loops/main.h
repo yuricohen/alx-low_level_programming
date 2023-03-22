@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void print_alphabet(void);
+void phabet(void);
 
-void print_alphabet(void)	
+void lphabet(void)	
 {
     char letter = 'a';
     while (letter <= 'z')
