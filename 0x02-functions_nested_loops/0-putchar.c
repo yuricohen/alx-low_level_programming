@@ -6,11 +6,10 @@
  */
 void printing(void)
 {
-        char s[] = "_putchar\n";
-        int i;
-
-        for (i = 0; s[i] != '\0'; i++)
-            _putchar(s[i]);
+	char s[] = "_putchar\n";
+	int i;
+	for (i = 0; s[i] != '\0'; i++)
+	_putchar(s[i]);
 }
 
 /**
@@ -19,6 +18,6 @@ void printing(void)
  */
 int main(void)
 {
-        printing();
-        return (0);
+	printing();
+	return (0);
 }
