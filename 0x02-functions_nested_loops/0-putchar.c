@@ -2,11 +2,13 @@
 #include "main.h"
 #include <unistd.h>
 /**
+* main - defined the beginnig of the program
 * printing - defines start of the program
 *
 * Return:0
 */
 
+int main(int)
 void printing(void)
 
 {
