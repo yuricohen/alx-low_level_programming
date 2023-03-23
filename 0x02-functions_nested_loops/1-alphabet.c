@@ -3,7 +3,9 @@
 #include <unistd.h>
 
 /**
-* printing_alphabet - defines start of the programrint_alphabet(void)
+* 
+* print_alphabet - defines start of the programrint_alphabet(void)
+*
 */
 
 void print_alphabet(void)
