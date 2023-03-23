@@ -1,13 +1,20 @@
 #include <stdio.h>
 #include "main.h"
+#include <unistd.h>
 /**
-* main - defines start of the program
+* printing - defines start of the program
 *
 * Return:0
 */
 
-int main(void)
+void printing(void)
+
 {
-	printing();
-	return (0);
+	char s[] = "_putchar\n";
+	int i;
+
+	for (i = 0; s[i] != '\0'; i++)
+	_putchar(s[i]);
+
+	return (0);   
 }
