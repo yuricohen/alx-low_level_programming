@@ -8,7 +8,6 @@
 * Return:0
 */
 
-int main(int)
 void printing(void)
 
 {
@@ -18,5 +17,5 @@ void printing(void)
 	for (i = 0; s[i] != '\0'; i++)
 	_putchar(s[i]);
 
-	return (0);   
+	return ();   
 }
