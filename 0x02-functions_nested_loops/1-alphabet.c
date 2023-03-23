@@ -3,8 +3,11 @@
 #include <unistd.h>
 
 /**
-* main - defines start of the progra/**
-* * main - defines start of the programrint_alphabet(void)
+* main - defines start of the programrint_alphabet(void)
+*/
+
+void print_alphabet(void)
+
 {
     char c = 'a';
 
