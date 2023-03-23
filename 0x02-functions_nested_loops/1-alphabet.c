@@ -3,13 +3,14 @@
 #include <unistd.h>
 
 /**
-* main - defines start of the programrint_alphabet(void)
+* printing_alphabet - defines start of the programrint_alphabet(void)
 */
 
 void print_alphabet(void)
 
 {
 	char c = 'a';
+
 	while (c <= 'z')
 {
 	_putchar(c);
