@@ -15,7 +15,5 @@ void printing(void)
 	int i;
 
 	for (i = 0; s[i] != '\0'; i++)
-	_putchar(s[i]);
-
-	return ();   
+	_putchar(s[i]); 
 }
